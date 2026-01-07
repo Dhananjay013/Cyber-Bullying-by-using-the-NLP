@@ -1,9 +1,22 @@
-# Cyber-Bullying-by-using-the-NLP
+# Cyber-Bullying Detection Using NLP
 
-Under the guidance of SNT, IITK Consulting Group, IIT Kanpur:
+## 📌 Overview
+This project uses NLP and Machine Learning to classify text as cyberbullying or normal.
 
--Applied advanced NLP algorithms and machine learning models to analyze and classify text data, distinguishing between cyberbullying instances and normal communication.
+## 🛠 Tech Stack
+Python • scikit-learn • NLP preprocessing • Jupyter Notebooks
 
--Collected and preprocessed extensive datasets, implementing data cleaning and feature engineering techniques to improve model performance and accuracy.
+## 📁 Project Structure
+- Data cleaning
+- Feature extraction
+- Model training
+- Evaluation
 
--Presented project findings and outcomes to the General Secretary of SNT Council, IITK, effectively conveying the significance and impact of the cyberbullying classification model.
+## 📈 Results
+Best model: <Name>  
+Accuracy/F1: <score>
+
+## 🚀 How to Run
+1. Clone
+2. Install requirements.txt
+3. Run notebooks in order
